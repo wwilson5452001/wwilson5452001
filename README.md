@@ -8,17 +8,18 @@
 
 ---
 
-- 🔍 **In search of new endeavors in the space of Data Analytics, Business Analysis, and Operations 😊**
-- 💻 **Business Strategy at TikTok Inc**
-- 🔭 **A little bit about myself:** I will complete my Master's in *Management of Technology (Data Analytics Track)* from **New York University** in May 2026.  
-  I have four years of combined **Data and Marketing** experience, having worked as a *Data Engineer* at **Taiwan Mobile**, a *Data Analyst* at **Olin**, and a *Marketing Analyst* at **Ogilvy**.  
-  I’ve received multiple international awards for **data-driven strategy and creativity**, including the **Cannes Lions**, **Clio**, **D&AD**, **Sabre**, and **One Show** Awards.
-- 👯 I’m looking to collaborate on **Data Analytics, Data Science, Machine Learning, Product Marketing, Business Analytics, and Business Operations!**
-- 🤔 I’m looking for **data opportunities to build awesome products.**
-- 💬 Ask me about **how companies are using data for their strategy and operations solutions.**
-- 📫 How to reach me: **[Personal](mailto:wwilson5452001@gmail.com)** | **[Academic]()**
-- 😄 Mandarin Name Pronunciation: **Wen (Wayne) Chi Hsiao**
-- ⚡ Fun fact: **I do rap and make my own music on Spotify and YouTube!**
+- 🔍 Actively seeking opportunities in Data Analytics, Business Analysis, and Operations 😊  
+- 💻 Business Strategy at TikTok Inc  
+- 🔭 A little bit about myself: I will complete my Master's in Management of Technology (Data Analytics Track) from New York University in May 2026.  
+  I have four years of combined Data and Marketing experience, having worked as a Data Engineer at Taiwan Mobile, a Data Analyst at Olin, and a Marketing Analyst at Ogilvy.  
+  I’ve received multiple international awards for data-driven strategy and creativity, including Cannes Lions, Clio, D&AD, Sabre, and One Show Awards.  
+- 👯 I’m looking to collaborate on Data Analytics, Data Science, Machine Learning, Product Marketing, Business Analytics, and Business Operations.  
+- 🤔 I’m looking for data opportunities to build awesome products.  
+- 💬 Ask me about how companies are using data for their strategy and operations solutions.  
+- 📫 How to reach me: [Personal](mailto:wwilson5452001@gmail.com) | [Academic](mailto:wh2638@nyu.edu)  
+- 😄 Mandarin Name Pronunciation: Wen (Wayne) Chi Hsiao  
+- ⚡ Fun fact: I do rap and make my own music on Spotify and YouTube!  
+- 🎵 Listen to my music: [Spotify](https://open.spotify.com/artist/5PNl67EXkQytGSzng3WVGv) | [YouTube](https://www.youtube.com/watch?v=dk4sw80xz1M)
 
 ---
 
